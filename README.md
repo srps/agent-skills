@@ -122,6 +122,13 @@ Skills are compatible with:
 - Cursor
 - GitHub Copilot (with agent support)
 
+## Attribution
+
+This repository was inspired by and follows patterns from:
+
+- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** - Repository structure, installation mechanism, and agent skills format
+- **[buYoung/skills](https://github.com/buYoung/skills)** - Original `agents-md-generator` skill (adapted from Korean to English)
+
 ## License
 
 MIT
